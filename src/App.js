@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Vansh Mittal- an Awesome Coder
+          Learn React with Vansh Mittal- an Awesome Coder - HsNaV
         </a>
       </header>
     </div>
